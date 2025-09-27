@@ -1,0 +1,28 @@
+{
+  "short_name": "Mirror AI",
+  "name": "시골길 개인 AI 최적화 시스템",
+  "description": "Personal AI Optimization System based on Mirror-gen 13-sided polyhedral mirror architecture",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e3c72",
+  "background_color": "#2a5298",
+  "categories": ["productivity", "utilities", "developer"],
+  "lang": "ko"
+}
