@@ -1,49 +1,21 @@
-<!-- GitHub Profile README for sigolmater -->
+## Project Setup Instructions
 
-<h1 align="center">Hi there, I'm Sigolmater 👋</h1>
+To set up the project, please follow these instructions:
 
-<p align="center">
-  <img src="https://github.com/sigolmater.png" width="100" alt="sigolmater's avatar">
-</p>
+1. **Run the setup script**: Open a terminal and execute the following command:
+   
+   ```bash
+   bash setup_sigol.sh
+   ```
 
----
+2. **Prepare dependencies**: Ensure that all required dependencies are installed. The setup script will guide you through this process.
 
-## 🚀 About Me
+3. **Key Files**:
+   - `setup_sigol.sh`: This script initializes the project environment and installs necessary packages.
+   - Other important files are mentioned throughout this README for configuration and usage.
 
-Welcome to my GitHub profile! I'm passionate about technology, creativity, and building impactful solutions. Here you'll find my latest projects, experiments, and contributions to the open-source community.
+Please refer to the specific sections below for further detail on usage and configuration. 
 
----
+## Additional Information
 
-## 🛠️ Top Repositories
-
-- [Mirror-gen](https://github.com/sigolmater/Mirror-gen): Unlock creativity with generative tools and scripts.
-- [Crazy_bigjo-thank-you](https://github.com/sigolmater/Crazy_bigjo-thank-you): A heartfelt project of gratitude and celebration.
-- [-crazy](https://github.com/sigolmater/-crazy): Pushing the boundaries of wild ideas and innovation.
-
----
-
-## 🌱 Currently Learning
-
-- Exploring new frameworks, tools, and languages.
-- Experimenting with AI, automation, and creative coding.
-
----
-
-## 🤝 Let's Connect!
-
-- 📫 Reach out via [GitHub Issues](https://github.com/sigolmater/-/issues) or open a PR!
-- 💬 Always open to collaboration, feedback, and new ideas.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sigolmater&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
-
----
-
-<!--
-Personalize this section with more about your skills, favorite tech, and contact links.
--->
+For any other questions or issues, feel free to check the issues tab or contact the maintainers directly.
